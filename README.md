@@ -37,6 +37,7 @@ Python, A* Search, Bayesian Inference, Machine Learning, NumPy, Scikit-learn, Py
 
 ---
 
-## Author
-Chakradhar Punur  
+## Authors
+Chakradhar Punur
+Mohammed Najeebuddin Quadri
 MS Computer Science, Rutgers University
